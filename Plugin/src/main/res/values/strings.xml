@@ -12,6 +12,6 @@
     <string name="app_url">https://github.com/sonelli/juicessh-auditlog</string>
     <string name="open_address">Open address</string>
     <string name="title_activity_about">About</string>
-    <string name="app_about">All actions performed by JuiceSSH plugins are stored in an internal audit log within JuiceSSH. This plugin allows simple viewing of the audit log.\n\nThis allows greater transparency as to the actions plugins take and helps identify potentally evil plugins.\n\nThis JuiceSSH plugin plugin is open source and freely available on Github. If you\'d like to contribute to it\'s development, please take a look at the github page and submit a pull request.\n\nhttps://github.com/sonelli/juicessh-auditlog</string>
+    <string name="app_about">All actions performed by JuiceSSH plugins are stored in an internal audit log within JuiceSSH. This plugin allows simple viewing of the audit log.\n\nThis allows greater transparency as to the actions plugins take and helps identify potentally malicious plugins.\n\nThis JuiceSSH plugin plugin is open source and freely available on Github. If you\'d like to contribute to it\'s development, please take a look at the github page and submit a pull request.\n\nhttps://github.com/sonelli/juicessh-auditlog</string>
 
 </resources>
